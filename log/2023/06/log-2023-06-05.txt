@@ -1,0 +1,111 @@
+2023-06-05 00:47:29[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\eggPHP3\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 00:53:58[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\eggPHP3\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 10:07:23[UTC -5] [ip] ::1 [lugar] Login|validar_sesion [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-06-05 10:07:27[UTC -5] [ip] ::1 [lugar] Login|validar_sesion [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-06-05 10:07:37[UTC -5] [ip] ::1 [lugar] Login|validar_sesion [texto] Sin Permisos Para Acceder a la Funcion o Funcion Deshabilitada
+2023-06-05 10:11:00[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\eggPHP3\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 10:11:00[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\eggPHP3\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 10:11:11[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\eggPHP3\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 10:14:34[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\eggPHP3\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 10:14:34[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\eggPHP3\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 10:14:49[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\eggPHP3\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 12:23:34[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 12:23:44[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\header.php: 1[MESSAGGE]require(../../../core/globals.php): failed to open stream: No such file or directory
+
+2023-06-05 12:25:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\header.php: 2[MESSAGGE]Use of undefined constant _assetsview_ - assumed '_assetsview_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:25:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\header.php: 15[MESSAGGE]Use of undefined constant _assetsview_ - assumed '_assetsview_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:25:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\header.php: 18[MESSAGGE]Use of undefined constant _assetsview_ - assumed '_assetsview_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:25:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\header.php: 19[MESSAGGE]Use of undefined constant _assetsview_ - assumed '_assetsview_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:25:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\header.php: 20[MESSAGGE]Use of undefined constant _assetsview_ - assumed '_assetsview_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:25:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\header.php: 23[MESSAGGE]Use of undefined constant _assetsview_ - assumed '_assetsview_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:25:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\header.php: 25[MESSAGGE]Use of undefined constant _assetsview_ - assumed '_assetsview_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:25:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\header.php: 30[MESSAGGE]Use of undefined constant _assetsview_ - assumed '_assetsview_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:25:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\header.php: 34[MESSAGGE]Use of undefined constant _assetsview_ - assumed '_assetsview_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:25:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\navbar.php: 6[MESSAGGE]Use of undefined constant _imgvargas_ - assumed '_imgvargas_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:25:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\navbar.php: 62[MESSAGGE]Use of undefined constant _assetsview_ - assumed '_assetsview_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:25:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\navbar.php: 71[MESSAGGE]Use of undefined constant _assetsview_ - assumed '_assetsview_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:25:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\navbar.php: 75[MESSAGGE]Use of undefined constant _admin_ - assumed '_admin_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:25:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\navbar.php: 100[MESSAGGE]Use of undefined constant _sesion_ - assumed '_sesion_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:25:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\footer.php: 9[MESSAGGE]Use of undefined constant _assetsview_ - assumed '_assetsview_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:25:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\footer.php: 10[MESSAGGE]Use of undefined constant _assetsview_ - assumed '_assetsview_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:25:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\footer.php: 11[MESSAGGE]Use of undefined constant _assetsview_ - assumed '_assetsview_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:25:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\footer.php: 12[MESSAGGE]Use of undefined constant _assetsview_ - assumed '_assetsview_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:25:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\footer.php: 13[MESSAGGE]Use of undefined constant _assetsview_ - assumed '_assetsview_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:25:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\footer.php: 14[MESSAGGE]Use of undefined constant _assetsview_ - assumed '_assetsview_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:25:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\footer.php: 15[MESSAGGE]Use of undefined constant _assetsview_ - assumed '_assetsview_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:25:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\footer.php: 16[MESSAGGE]Use of undefined constant _assetsview_ - assumed '_assetsview_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:28:00[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\navbar.php: 6[MESSAGGE]Use of undefined constant _imgvargas_ - assumed '_imgvargas_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:28:00[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\navbar.php: 75[MESSAGGE]Use of undefined constant _admin_ - assumed '_admin_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:28:00[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\navbar.php: 100[MESSAGGE]Use of undefined constant _sesion_ - assumed '_sesion_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:29:39[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\navbar.php: 6[MESSAGGE]Use of undefined constant _imgvargas_ - assumed '_imgvargas_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:29:39[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\navbar.php: 75[MESSAGGE]Use of undefined constant _admin_ - assumed '_admin_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:29:39[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\navbar.php: 100[MESSAGGE]Use of undefined constant _sesion_ - assumed '_sesion_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:30:52[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\navbar.php: 6[MESSAGGE]Use of undefined constant _imgvargas_ - assumed '_imgvargas_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:30:52[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\navbar.php: 75[MESSAGGE]Use of undefined constant _admin_ - assumed '_admin_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:30:52[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\navbar.php: 100[MESSAGGE]Use of undefined constant _sesion_ - assumed '_sesion_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:32:42[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\navbar.php: 75[MESSAGGE]Use of undefined constant _admin_ - assumed '_admin_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:32:42[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\navbar.php: 100[MESSAGGE]Use of undefined constant _sesion_ - assumed '_sesion_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:37:47[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\navbar.php: 75[MESSAGGE]Use of undefined constant _admin_ - assumed '_admin_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:37:47[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\navbar.php: 100[MESSAGGE]Use of undefined constant _sesion_ - assumed '_sesion_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:42:09[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\navbar.php: 75[MESSAGGE]Use of undefined constant _admin_ - assumed '_admin_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:42:09[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\view\navbar.php: 100[MESSAGGE]Use of undefined constant _sesion_ - assumed '_sesion_' (this will throw an Error in a future version of PHP)
+
+2023-06-05 12:56:57[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 12:57:04[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 13:43:51[UTC -5] [ip] ::1 [lugar] Sesion|obtener_informacion [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd_3.usuarios' doesn't exist
+2023-06-05 13:43:51[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 13:43:51[UTC -5] [ip] ::1 [lugar] Menui|verificar_permiso_usuario [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'eggbd_3.roles' doesn't exist
+2023-06-05 13:43:51[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 13:45:15[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-06-05 13:45:17[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Tienda-Vargas\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
