@@ -1,8 +1,5 @@
-var urlweb = "http://localhost:8080/Tienda-Vargas/";
-var ruta_web = "http://localhost:8080/Tienda-Vargas/";
-//var ruta_web = "http://localhost/Tienda-Vargas/";
-
-//Función que hizo Carlitos que no sé bien para que sirve pero la dejo ahí por si las moscas
+var urlweb = `${window.location.origin}/unanue/`;
+var ruta_web = `${window.location.origin}/unanue/`;
 function getParameterByName(name) {
     name = name.replace(/[\[]/, "\\[").replace(/[\]]/, "\\]");
     var regex = new RegExp("[\\?&]" + name + "=([^&#]*)"),
