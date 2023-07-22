@@ -9,24 +9,40 @@
 <!-- Begin Page Content -->
 <div class="container-fluid">
     <!-- Page Heading -->
-    <div class="d-sm-flex align-items-center justify-content-between mb-4">
-        <h1 class="h3 mb-0 text-gray-800">Inicio</h1>
-        <!--<a href="#" class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"><i class="fa fa-download fa-sm text-white-50"></i> Generate Report</a>-->
-    </div>
+
     <!-- Content Row -->
     <div class="row">
-        <div class="col-lg-12 mb-4">
-            <!-- Approach -->
-            <div class="card shadow mb-4 bg-gradient-success text-white">
-                <div class="card-header py-3">
-                    <h6 class="m-0 font-weight-bold text-primary">Bienvenido a EggPHP3, <?php echo $this->encriptar->desencriptar($_SESSION['p_n'],_FULL_KEY_) . ' ' . $this->encriptar->desencriptar($_SESSION['p_p'],_FULL_KEY_);?></h6>
-                </div>
-                <div class="card-body" style="text-align: center;">
-                    <h2 style="padding-top: 20px;">Su Rol de Usuario es: <?php echo $this->encriptar->desencriptar($_SESSION['rn'],_FULL_KEY_);?></h2><br>
+        <div class="col-lg-12 mb-4 order-0">
+            <div class="card">
+                <div class="d-flex align-items-end row">
+                    <div class="col-sm-7">
+                        <div class="card-body">
+                            <h5 class="card-title text-primary">Congratulations <?php echo $this->encriptar->desencriptar($_SESSION['p_n'],_FULL_KEY_) . ' ' . $this->encriptar->desencriptar($_SESSION['p_p'],_FULL_KEY_);?>! 🎉</h5>
+                            <p class="mb-4">
+                                Sistema de Control de Asistencias <span class="fw-bold">Hospital Nacional Hipolito Unanue</span>
+
+                            </p>
+
+                            <a href="javascript:;" class="btn btn-sm btn-outline-primary">Ver Citas</a>
+                        </div>
+                    </div>
+                    <div class="col-sm-5 text-center text-sm-left">
+                        <div class="card-body pb-0 px-0 px-md-4">
+                            <img
+                                    src="<?= _SERVER_ ?>media/img/man_laptop.png"
+                                    height="140"
+                                    alt="View Badge User"
+                                    data-app-dark-img="illustrations/man-with-laptop-dark.png"
+                                    data-app-light-img="illustrations/man-with-laptop-light.png"
+                            />
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
+
     </div>
+
     <!-- Content Row -->
     <!--<div class="row">
         <div class="col-xl-3 col-md-6 mb-4">

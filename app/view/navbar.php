@@ -165,7 +165,7 @@
                 </div>
 
                 <div class="navbar-nav-right d-flex align-items-center" id="navbar-collapse">
-                    <h3 class="text-primary" style="margin-top: 15px">SOFTWARE DE GESTIÓN DE TIENDA VIRTUAL</h3>
+                    <h3 class="text-primary" style="margin-top: 15px">SISTEMA DE CONTROL DE CITAS </h3>
                     <!-- Search -->
                     <div class="navbar-nav align-items-center">
                         <div class="nav-item d-flex align-items-center">
