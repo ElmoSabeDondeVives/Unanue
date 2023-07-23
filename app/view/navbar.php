@@ -4,7 +4,7 @@
             <div class="app-brand demo">
                 <a href="<?= _SERVER_ ?>" class="app-brand-link">
               <span class="app-brand-logo demo">
-                  <img src="<?php echo _SERVER_ . _ICON_;?>" style="width: 10%;" alt="Logo" />
+                  <img src="<?php echo _SERVER_ . _BANNER_;?>" style="width: 50%;" alt="Logo" />
                   <!--<svg
                       width="25"
                       viewBox="0 0 25 42"
