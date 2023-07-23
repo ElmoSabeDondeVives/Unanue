@@ -89,7 +89,7 @@ if($correr){
                 //Si Entra Aquí, Es Porque Hay Una Sesión Iniciada
                 $controlador = "Admin";
             } else {
-                $controlador = "Login";
+                $controlador = "Inicio";
             }
             //Esta Parte Del Código Es Para Software Que Tienes Varias Vistas Libres Para Varios Usuarios (Reemplazar en Login)
             //$controlador = "Inicio";

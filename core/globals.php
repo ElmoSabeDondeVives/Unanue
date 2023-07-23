@@ -16,35 +16,38 @@ define('_MANTENIMIENTO_WEB', 0);
 //Establecer Zona Horaria
 date_default_timezone_set('America/Lima');
 //Definicion de servidor del aplicativo
-define('_SERVER_', 'http://localhost:8080/Tienda-Vargas/');
+define('_SERVER_', 'http://localhost:8080/unanue/');
 //Definicion de variables para conexion de base de datos
 define('_SERVER_DB_', 'localhost');
-define('_DB_', 'eggbd_3');
+define('_DB_', 'unanuedata');
 define('_USER_DB_', 'root');
 define('_PASSWORD_DB_', '');
 
 //Definicion de clave de desencriptacion
 define('_FULL_KEY_','ñklmqz');
 //Titulo
-define('_TITLE_', 'EggPHP3');
+define('_TITLE_', 'Unanue');
 //Rutas de Archivos
 define('_STYLES_ALL_', 'styles/');
+define('_STYLES_FT_', 'styles/ft/');
 define('_STYLES_ADMIN_', 'styles/admin/');
 define('_STYLES_LOGIN_', 'styles/login/');
 define('_STYLES_INDEX_', 'styles/inicio/');
-define('_ICON_', 'styles/bufeotec-original.png');
+define('_ICON_', 'media/logos/logo.png');
+define('_BANNER_','media/logos/banner.png');
 define('_JS_','js/');
 define('_VIEW_PATH_', 'app/view/');
 define('_assetsview_', 'styles/assets/');
 define('_imgvargas_', 'styles/assets/img/tiendavargas/');
 define('_STYLES_bt5_', 'styles/bt5/');
 define('_LIBS_', 'libs/');
+define('_MYSITE_','https://bufeotec.com');
 //Tiempo de Cookies
 //$tiempo_cookie = dias * horas * minutos * segundos;
 define('_TIEMPO_COOKIE',1 * 1 * 60 * 60);
 //Version
 define('_VERSION_','0.1');
-define('_MYSITE_','https://bufeotec.com');
+
 
 // Manejo de Errores Personalizado de PHP a Try/Catch
 function exception_error_handler($severidad, $mensaje, $fichero, $linea) {
