@@ -7,7 +7,7 @@
             <script>
                 document.write(new Date().getFullYear());
             </script>
-            , Bufeo Tec ❤️ <!--by
+            , Hipolito Unanue ❤️ <!--by
             <a href="https://themeselection.com" target="_blank" class="footer-link fw-bolder">ThemeSelection</a>-->
         </div>
         <div>
