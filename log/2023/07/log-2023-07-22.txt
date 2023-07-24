@@ -1,0 +1,123 @@
+2023-07-22 21:10:07[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-07-22 21:26:16[UTC -5] [ip] ::1 [lugar] Medico|list_doctors [texto] SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'medicos m LEFT JOIN turnos t ON m.id_medico = t.id_medico' at line 2
+2023-07-22 21:29:25[UTC -5] [ip] ::1 [lugar] MedicosController|list [texto] syntax error, unexpected ''.$m->id_medico ?>" class="btn' (T_ENCAPSED_AND_WHITESPACE)
+2023-07-22 21:29:58[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Unanue\app\view\error\error.php: 30[MESSAGGE]Use of undefined constant _MYSITE_ - assumed '_MYSITE_' (this will throw an Error in a future version of PHP)
+
+2023-07-22 21:29:58[UTC -5] [ip] ::1 [lugar] Medicos|edita_calendar [texto] SIN PERMISOS SUFICIENTES DE ACCESO
+2023-07-22 21:38:01[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Unanue\app\view\error\error.php: 30[MESSAGGE]Use of undefined constant _MYSITE_ - assumed '_MYSITE_' (this will throw an Error in a future version of PHP)
+
+2023-07-22 21:38:01[UTC -5] [ip] ::1 [lugar] Medicos|edita_calendar [texto] SIN PERMISOS SUFICIENTES DE ACCESO
+2023-07-22 21:38:11[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Unanue\app\controllers\MedicosController.php: 192[MESSAGGE]require(app/view/medicos/edita_calendar.php): failed to open stream: No such file or directory
+
+2023-07-22 21:41:02[UTC -5] [ip] ::1 [lugar] Medico|get_turno [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'unanuedata.turno' doesn't exist
+2023-07-22 21:41:02[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\medicos\edit_calendar.php: 44[MESSAGGE]Trying to get property 'lunes' of non-object
+
+2023-07-22 21:41:16[UTC -5] [ip] ::1 [lugar] Medico|get_turno [texto] SQLSTATE[42S02]: Base table or view not found: 1146 Table 'unanuedata.turno' doesn't exist
+2023-07-22 22:06:49[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Unanue\app\view\error\error.php: 30[MESSAGGE]Use of undefined constant _MYSITE_ - assumed '_MYSITE_' (this will throw an Error in a future version of PHP)
+
+2023-07-22 22:06:48[UTC -5] [ip] ::1 [lugar] Logistica|config [texto] El archivo consultado app/controllers/LogisticaController.php no existe
+2023-07-22 22:54:57[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-07-22 22:55:45[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-07-22 22:56:06[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-07-22 22:56:12[UTC -5] [ip] ::1 [lugar] Builder|save [texto] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_creacion' in 'field list'
+2023-07-22 23:12:37[UTC -5] [ip] ::1 [lugar] Builder|save [texto] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'fecha_creacion' in 'field list'
+2023-07-22 23:13:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-07-22 23:14:54[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-07-22 23:15:03[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-07-22 23:16:09[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-07-22 23:16:09[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:16:09[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:17:22[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-07-22 23:17:22[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:17:22[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:17:39[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-07-22 23:17:39[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:17:39[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:18:59[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-07-22 23:18:59[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:18:59[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:20:20[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-07-22 23:20:20[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:20:20[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:49:45[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-07-22 23:49:45[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:49:45[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:54:47[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-07-22 23:54:47[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:54:47[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:54:50[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-07-22 23:54:50[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:54:50[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:55:39[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-07-22 23:55:39[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:55:39[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:55:43[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-07-22 23:55:43[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:55:43[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:56:04[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-07-22 23:56:04[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:56:04[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:56:22[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-07-22 23:56:22[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:56:22[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:56:42[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-07-22 23:56:42[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:56:42[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:57:00[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-07-22 23:57:00[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:57:00[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:59:26[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\models\Builder.php: 78[MESSAGGE]Undefined variable: params
+
+2023-07-22 23:59:26[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+
+2023-07-22 23:59:26[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 8 IN C:\laragon\www\Unanue\app\view\logistica\config.php: 55[MESSAGGE]Undefined property: stdClass::$estado_sevicio
+

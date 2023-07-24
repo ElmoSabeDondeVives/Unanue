@@ -1,0 +1,12 @@
+2023-07-21 14:45:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Unanue\app\models\Sesion.php: 100[MESSAGGE]Cookie paths cannot contain any of the following ',; \t\r\n\013\014'
+
+2023-07-21 14:45:54[UTC -5] [ip] ::1 [lugar] Registro|registrar [texto] El archivo consultado app/controllers/RegistroController.php no existe
+2023-07-21 15:11:43[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Unanue\app\view\error\error.php: 30[MESSAGGE]Use of undefined constant _MYSITE_ - assumed '_MYSITE_' (this will throw an Error in a future version of PHP)
+
+2023-07-21 15:11:43[UTC -5] [ip] ::1 [lugar] Medicos|registro [texto] Call to undefined method MedicosController::registro()
+2023-07-21 15:14:19[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Unanue\app\view\error\error.php: 30[MESSAGGE]Use of undefined constant _MYSITE_ - assumed '_MYSITE_' (this will throw an Error in a future version of PHP)
+
+2023-07-21 15:14:19[UTC -5] [ip] ::1 [lugar] Medicos|list [texto] Call to undefined method MedicosController::list()
+2023-07-21 15:14:22[UTC -5] [ip] ::1 [lugar] Excepcion No Manejada [texto] [LEVEL]: 2 IN C:\laragon\www\Unanue\app\view\error\error.php: 30[MESSAGGE]Use of undefined constant _MYSITE_ - assumed '_MYSITE_' (this will throw an Error in a future version of PHP)
+
+2023-07-21 15:14:22[UTC -5] [ip] ::1 [lugar] Medicos|list [texto] Call to undefined method MedicosController::list()
