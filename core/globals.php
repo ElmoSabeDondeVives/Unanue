@@ -12,6 +12,12 @@ define('_MANTENIMIENTO_WS', 0);
 //aqui para que nadie pueda acceder a la misma
 define('_MANTENIMIENTO_WEB', 0);
 
+/*define('_SERVER_', 'https://hospitalunanue.000webhostapp.com/');
+define('_SERVER_DB_', 'localhost');
+define('_DB_', 'id21069633_unanuedata');
+define('_USER_DB_', 'id21069633_root');
+define('_PASSWORD_DB_', 'S3rg10j41m3s.');*/
+
 //Variables globales de uso en todo el sistema
 //Establecer Zona Horaria
 date_default_timezone_set('America/Lima');

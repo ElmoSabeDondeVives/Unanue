@@ -30,7 +30,7 @@ function validar_usuario(){
                     case 1:
                         respuesta('Ingreso exitoso, redireccionando...', 'success');
                         setTimeout(function () {
-                            location.reload();
+                            window.location=urlweb+'Admin';
                         }, 1000);
                         break;
                     case 2:
